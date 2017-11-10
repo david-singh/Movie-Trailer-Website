@@ -4,7 +4,7 @@
 
 ## Quick Start
 
- + Run **media.py** file in the Folder
+ + Open and Run **movie_center.py** file in the Folder
  + Browser will automatically open a **Marvellous** titled website
  + Click on any poster image of the Movie.
  + Youtube Trailer will open on the same page
