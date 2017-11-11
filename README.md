@@ -2,19 +2,30 @@
 
 > Website plays the Movie Trailers on clicking the posters
 
+### Prerequisites
+
+ + Should have version of python **2.7** or above , Installed in computer ([Download Python](https://www.python.org/downloads/))
+ + Should have a updated and fully functioning **Web browser** . (Any common Web browser such as Chrome , Mozilla , Safari , Internet Explorer , Opera will work)
+
+
 ## Quick Start
 
- + Open and Run **movie_center.py** file in the Folder
+ + Open the Github Repository : [Movie Trailer Website](https://github.com/david-singh/Movie-Trailer-Website) 
+ + Click on the **Clone or Download** button on the right side .
+ + Click on **Download ZIP** option 
+ + Check you Downloads to find the _Zip file_ in your computer.
+ + Extract the _Zip file using WinRAR_ .
+ + Click on Start Menu to find **IDLE** _Python Shell_ and Open it.
+ + Click on **File  --> Open** option in the upper menu
+ + Find and Open the folder **Movie-Trailer-Website** which was just extracted .
+ + Click on the **movie_center.py** file in the Folder .
+ +  **movie_center.py** will open in **Python Shell** .
+ +  **Run** the File by pressing **_F5_** or Clickning the **_Run_** option in the Menu above .
  + Browser will automatically open a **Marvellous** titled website
  + Click on any poster image of the Movie.
  + Youtube Trailer will open on the same page
  + Click _close_ to Close the Trailer
  
-### Prerequisites
-
- + Should have version of python **2.7** or above , Installed in computer
- + Should have a updated and fully functioning **Web browser** . (Any common Web browser such as Chrome , Mozilla , Safari , Internet Explorer , Opera will work)
-
 ## Download or Use 
 + Github Repositories : [Movie Trailer Website](https://github.com/david-singh/Movie-Trailer-Website)
 ## Built With
